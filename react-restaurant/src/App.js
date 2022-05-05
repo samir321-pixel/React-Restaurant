@@ -1,13 +1,22 @@
-import logo from './logo.svg';
+import React from 'react';
+
+import { AboutUs, Chef, FindUs, Footer, Gallery, Header, Intro, Laurels, SpecialMenu } from './container';
+import { Navbar } from './components';
 import './App.css';
-import React from 'react'
 
-const App = () => {
-  return (
-    <div>
-      <h1>Hello</h1>
-    </div>
-  )
-}
+const App = () => (
+  <div>
+    <Navbar />
+    <Header />
+    <AboutUs />
+    <SpecialMenu />
+    <Chef />
+    <Intro />
+    <Laurels />
+    <Gallery />
+    <FindUs />
+    <Footer />
+  </div>
+);
 
-export default App
+export default App;

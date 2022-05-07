@@ -32,6 +32,25 @@ npm start
 The Frontend will be available at **http://localhost:3000/**.
 
 # Screenshots
+![Screenshot (18)](https://user-images.githubusercontent.com/65664404/167265506-becd871b-d675-4820-8dc2-e5fba983529b.png)
+
+![Screenshot (19)](https://user-images.githubusercontent.com/65664404/167265510-0e3fa0b9-8afb-4794-a510-699546e99a39.png)
+
+![Screenshot (20)](https://user-images.githubusercontent.com/65664404/167265514-f47bbc8d-f17a-45c9-b2d5-3d1ce0fa6075.png)
+
+![Screenshot (21)](https://user-images.githubusercontent.com/65664404/167265516-05da637c-587a-4e08-b2cc-e01bffcc8500.png)
+
+![Screenshot (22)](https://user-images.githubusercontent.com/65664404/167265519-32387a30-2702-4f4e-b6b6-b97ccce1d3cc.png)
+
+![Screenshot (23)](https://user-images.githubusercontent.com/65664404/167265523-fd4acd3c-7ab0-4c4a-9b44-15dae5174da0.png)
+
+![Screenshot (24)](https://user-images.githubusercontent.com/65664404/167265527-5213d98e-3f55-401c-8478-c29b21eae4f1.png)
+
+![Screenshot (25)](https://user-images.githubusercontent.com/65664404/167265533-70eb9b5c-fa95-4888-a04d-710f0941c596.png)
+
+![Screenshot (26)](https://user-images.githubusercontent.com/65664404/167265536-31c19278-29bc-4d29-a970-2a3ad252a772.png)
+
+![Screenshot (27)](https://user-images.githubusercontent.com/65664404/167265539-7646537b-7531-4c59-8e3f-e557bd0cdc7f.png)
 
 
 ## 🌏 Browser Support
